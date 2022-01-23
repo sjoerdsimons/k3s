@@ -10,6 +10,7 @@ replace (
 	github.com/docker/distribution => github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker => github.com/docker/docker v20.10.7+incompatible
 	github.com/docker/libnetwork => github.com/docker/libnetwork v0.8.0-dev.2.0.20190624125649-f0e46a78ea34
+	github.com/flannel-io/flannel => github.com/sjoerdsimons/flannel v0.16.2-0.20220123103637-9702ee0c4c89
 	github.com/golang/protobuf => github.com/golang/protobuf v1.5.2
 	github.com/google/cadvisor => github.com/k3s-io/cadvisor v0.43.0-k3s1
 	github.com/googleapis/gax-go/v2 => github.com/googleapis/gax-go/v2 v2.0.5
